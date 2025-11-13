@@ -9,7 +9,7 @@ A FastAPI-based translation service using Retrieval-Augmented Generation (RAG) w
 - **Context-Aware**: Generates prompts with up to 4 relevant examples from past translations
 - **Language Support**: Handles any language pair using ISO 639-1 codes
 - **Vector Storage**: ChromaDB for efficient similarity search
-
+s
 ### Stammering Detection
 - **Pattern Recognition**: Identifies non-natural repetitions in translations
 - **Multi-Level Analysis**: Detects both character elongation and phrase repetition
@@ -43,7 +43,7 @@ Generate translation prompt with similar examples.
 - `query_sentence`: Text to translate
 
 **Response:**
-```json
+```
 Translate the following sentence from en to it:
 
 "See you later, my friend."
