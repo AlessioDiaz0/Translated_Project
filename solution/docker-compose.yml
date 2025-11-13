@@ -1,0 +1,24 @@
+version: '3.8'
+
+services:
+  api:
+    build: .
+    container_name: translation_api
+    ports:
+      - "8000:8000"
+    environment:
+      CHROMA_PERSIST_DIR: /app/chroma_data
+      EMBEDDING_MODEL: sentence-transformers/all-MiniLM-L6-v2
+      PORT: 8000
+    volumes:
+      - chroma_data:/app/chroma_data
+    networks:
+      - translation_network
+    restart: unless-stopped
+
+volumes:
+  chroma_data:
+
+networks:
+  translation_network:
+    driver: bridge

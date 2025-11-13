@@ -1,0 +1,405 @@
+$ python client.py 
+
+Select an option:
+1 - Populate Database
+2 - Request Prompts
+3 - Detect Stammering
+4 - Exit
+Enter choice (1-4): 1
+Line 1: Added translation pair.
+Line 2: Added translation pair.
+Line 3: Added translation pair.
+Line 4: Added translation pair.
+Line 5: Added translation pair.
+Line 6: Added translation pair.
+Line 7: Added translation pair.
+Line 8: Added translation pair.
+Line 9: Added translation pair.
+Line 10: Added translation pair.
+Line 11: Added translation pair.
+Line 12: Added translation pair.
+Line 13: Added translation pair.
+Line 14: Added translation pair.
+Line 15: Added translation pair.
+Line 16: Added translation pair.
+Line 17: Added translation pair.
+Line 18: Added translation pair.
+Line 19: Added translation pair.
+Line 20: Added translation pair.
+
+Select an option:
+1 - Populate Database
+2 - Request Prompts
+3 - Detect Stammering
+4 - Exit
+Enter choice (1-4): 2
+
+Line 1: Received Translation Prompt.
+Translate the following sentence from en to it:
+
+"Good night"
+
+Here are some similar translation examples:
+
+1. en: "Good evening!"
+   it: "Buonasera!"
+
+2. en: "Good morning!"
+   it: "Buongiorno!"
+
+3. en: "See you tomorrow."
+   it: "Ci vediamo domani."
+
+4. en: "See you later."
+   it: "Ci vediamo dopo."
+
+
+Line 2: Received Translation Prompt.
+Translate the following sentence from en to it:
+
+"Good evening!"
+
+Here are some similar translation examples:
+
+1. en: "Good evening!"
+   it: "Buonasera!"
+
+2. en: "Good morning!"
+   it: "Buongiorno!"
+
+3. en: "Hello, how are you?"
+   it: "Ciao, come stai?"
+
+4. en: "See you tomorrow."
+   it: "Ci vediamo domani."
+
+
+Line 3: Received Translation Prompt.
+Translate the following sentence from en to it:
+
+"How's the weather tomorrow?"
+
+Here are some similar translation examples:
+
+1. en: "How's the weather today?"
+   it: "Com'è il tempo oggi?"
+
+2. en: "How's the weather?"
+   it: "Com'è il tempo?"
+
+3. en: "Hello, how are you?"
+   it: "Ciao, come stai?"
+
+4. en: "See you tomorrow."
+   it: "Ci vediamo domani."
+
+
+Line 4: Received Translation Prompt.
+Translate the following sentence from en to it:
+
+"How's your day?"
+
+Here are some similar translation examples:
+
+1. en: "Hello, how are you?"
+   it: "Ciao, come stai?"
+
+2. en: "How's the weather today?"
+   it: "Com'è il tempo oggi?"
+
+3. en: "How's the weather?"
+   it: "Com'è il tempo?"
+
+4. en: "Good morning!"
+   it: "Buongiorno!"
+
+
+Line 5: Received Translation Prompt.
+Translate the following sentence from en to it:
+
+"See you later, my friend."
+
+Here are some similar translation examples:
+
+1. en: "See you later."
+   it: "Ci vediamo dopo."
+
+2. en: "See you soon."
+   it: "A presto."
+
+3. en: "See you tomorrow."
+   it: "Ci vediamo domani."
+
+4. en: "Good evening!"
+   it: "Buonasera!"
+
+
+Line 6: Received Translation Prompt.
+Translate the following sentence from en to it:
+
+"What's my name?"
+
+Here are some similar translation examples:
+
+1. en: "What's your name?"
+   it: "Come ti chiami?"
+
+2. en: "Hello, how are you?"
+   it: "Ciao, come stai?"
+
+3. en: "See you soon."
+   it: "A presto."
+
+4. en: "See you later."
+   it: "Ci vediamo dopo."
+
+
+Line 7: Received Translation Prompt.
+Translate the following sentence from en to it:
+
+"What's your hometown?"
+
+Here are some similar translation examples:
+
+1. en: "Where are you from?"
+   it: "Di dove sei?"
+
+2. en: "What's your name?"
+   it: "Come ti chiami?"
+
+3. en: "How's the weather?"
+   it: "Com'è il tempo?"
+
+4. en: "Hello, how are you?"
+   it: "Ciao, come stai?"
+
+
+Line 8: Received Translation Prompt.
+Translate the following sentence from en to it:
+
+"Where is the bus stop?"
+
+Here are some similar translation examples:
+
+1. en: "Where is the station?"
+   it: "Dov'è la stazione?"
+
+2. en: "Where is the nearest station?"
+   it: "Dov'è la stazione più vicina?"
+
+3. en: "What time is it?"
+   it: "Che ore sono?"
+
+4. en: "What is the time?"
+   it: "Che ore sono?"
+
+
+Line 9: Received Translation Prompt.
+Translate the following sentence from en to it:
+
+"I love pizza and I love italian food in general."
+
+Here are some similar translation examples:
+
+1. en: "I love Italian food."
+   it: "Amo il cibo italiano."
+
+2. en: "I love pizza."
+   it: "Amo la pizza."
+
+3. en: "Do you speak Italian?"
+   it: "Parli italiano?"
+
+4. en: "I'm hungry."
+   it: "Ho fame."
+
+
+Line 10: Received Translation Prompt.
+Translate the following sentence from en to it:
+
+"I love music."
+
+Here are some similar translation examples:
+
+1. en: "I love pizza."
+   it: "Amo la pizza."
+
+2. en: "I love Italian food."
+   it: "Amo il cibo italiano."
+
+3. en: "I'm hungry."
+   it: "Ho fame."
+
+4. en: "I'm thirsty."
+   it: "Ho sete."
+
+
+Line 11: Received Translation Prompt.
+Translate the following sentence from en to it:
+
+"Do you understand Italian?"
+
+Here are some similar translation examples:
+
+1. en: "Do you speak Italian?"
+   it: "Parli italiano?"
+
+2. en: "I love Italian food."
+   it: "Amo il cibo italiano."
+
+3. en: "Do you speak English?"
+   it: "Parli inglese?"
+
+4. en: "I love pizza."
+   it: "Amo la pizza."
+
+
+Line 12: Received Translation Prompt.
+Translate the following sentence from en to it:
+
+"Do you speak German or Italian?"
+
+Here are some similar translation examples:
+
+1. en: "Do you speak Italian?"
+   it: "Parli italiano?"
+
+2. en: "I love Italian food."
+   it: "Amo il cibo italiano."
+
+3. en: "Do you speak English?"
+   it: "Parli inglese?"
+
+4. en: "Where are you from?"
+   it: "Di dove sei?"
+
+
+Line 13: Received Translation Prompt.
+Translate the following sentence from en to it:
+
+"What time does the train leave?"
+
+Here are some similar translation examples:
+
+1. en: "What is the time?"
+   it: "Che ore sono?"
+
+2. en: "What time is it?"
+   it: "Che ore sono?"
+
+3. en: "Where is the station?"
+   it: "Dov'è la stazione?"
+
+4. en: "Where is the nearest station?"
+   it: "Dov'è la stazione più vicina?"
+
+
+Line 14: Received Translation Prompt.
+Translate the following sentence from en to it:
+
+"I'm feeling hungry now."
+
+Here are some similar translation examples:
+
+1. en: "I'm hungry."
+   it: "Ho fame."
+
+2. en: "I'm thirsty."
+   it: "Ho sete."
+
+3. en: "I love pizza."
+   it: "Amo la pizza."
+
+4. en: "I love Italian food."
+   it: "Amo il cibo italiano."
+
+
+Line 15: Received Translation Prompt.
+Translate the following sentence from en to it:
+
+"Is there a library nearby?"
+
+Here are some similar translation examples:
+
+1. en: "Where is the nearest station?"
+   it: "Dov'è la stazione più vicina?"
+
+2. en: "Where is the station?"
+   it: "Dov'è la stazione?"
+
+3. en: "Where are you from?"
+   it: "Di dove sei?"
+
+4. en: "Do you speak English?"
+   it: "Parli inglese?"
+
+
+Line 16: Received Translation Prompt.
+Translate the following sentence from en to it:
+
+"Can you help me find the park?"
+
+Here are some similar translation examples:
+
+1. en: "Where is the station?"
+   it: "Dov'è la stazione?"
+
+2. en: "Where is the nearest station?"
+   it: "Dov'è la stazione più vicina?"
+
+3. en: "What time is it?"
+   it: "Che ore sono?"
+
+4. en: "What is the time?"
+   it: "Che ore sono?"
+
+
+Line 17: Received Translation Prompt.
+Translate the following sentence from it to en:
+
+"Che ore sono?"
+
+
+Line 18: Received Translation Prompt.
+Translate the following sentence from it to en:
+
+"Ci vediamo"
+
+
+Select an option:
+1 - Populate Database
+2 - Request Prompts
+3 - Detect Stammering
+4 - Exit
+Enter choice (1-4): 3
+
+Line 1: Response -> No (Expected: No)
+
+Line 2: Response -> No (Expected: No)
+
+Line 3: Response -> Yes (Expected: Yes)
+
+Line 4: Response -> No (Expected: No)
+
+Line 5: Response -> No (Expected: No)
+
+Line 6: Response -> No (Expected: No)
+
+Line 7: Response -> No (Expected: No)
+
+Line 8: Response -> No (Expected: No)
+
+Line 9: Response -> No (Expected: No)
+
+Line 10: Response -> Yes (Expected: Yes)
+
+Line 11: Response -> Yes (Expected: Yes)
+
+Line 12: Response -> Yes (Expected: Yes)
+
+Select an option:
+1 - Populate Database
+2 - Request Prompts
+3 - Detect Stammering
+4 - Exit
+Enter choice (1-4): 4
